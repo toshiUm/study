@@ -2,4 +2,4 @@
 テスト
 テスト２
 featureで追加したっす
-featureで更に追加したっす
+FEATUREで更に追加したっす
